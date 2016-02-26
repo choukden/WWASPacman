@@ -1,5 +1,0 @@
-applications:
-- name: pacman
-  buildpack: https://github.com/cloudfoundry-community/nginx-buildpack.git
-  domain: api.helionit.io
-  name: WWAS-Pacman
